@@ -2,7 +2,6 @@
 ---
 
 ```markdown
-# 🏥 Patient Journey Analytics & Dropout Risk Prediction
 
 ### Machine Learning · Healthcare Analytics · Streamlit Dashboard
 
@@ -10,7 +9,7 @@ This project builds a **patient-journey analytics and dropout-risk prediction pl
 
 ---
 
-## 🚀 Overview
+## Overview
 
 - **Goal:** Identify care-pathway bottlenecks and predict patient dropout using machine learning.  
 - **Data:** 50k+ synthetic patient records (EHR + claims-style fields).  
@@ -20,7 +19,7 @@ This project builds a **patient-journey analytics and dropout-risk prediction pl
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - **Cohort Analytics:** Map patient flow and drop-offs across care stages.  
 - **Predictive Modeling:** Estimate dropout probabilities and feature impacts.  
@@ -29,13 +28,13 @@ This project builds a **patient-journey analytics and dropout-risk prediction pl
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 **Python**, **pandas**, **NumPy**, **scikit-learn**, **matplotlib**, **Plotly**, **Streamlit**, **joblib**
 
 ---
 
-## 📊 Workflow
+## Workflow
 
 1. **Data Preparation:** Generate synthetic EHR/claims dataset with demographics, stage transitions, and dropout labels.  
 2. **Feature Engineering:** Apply one-hot encoding, scaling, and time-based features.  
@@ -44,7 +43,7 @@ This project builds a **patient-journey analytics and dropout-risk prediction pl
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/<your-username>/patient-journey-analytics.git
@@ -56,7 +55,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 * **Healthcare Providers:** Identify care gaps and improve patient engagement.
 * **Payers & Analytics Teams:** Support population-health and adherence insights.
