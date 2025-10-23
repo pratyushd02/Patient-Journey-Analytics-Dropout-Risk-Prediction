@@ -1,0 +1,12 @@
+
+Synthetic dataset created: /mnt/data/health_project/synthetic_patient_journeys.csv
+Funnel metrics: /mnt/data/health_project/funnel_metrics.csv
+Model metrics saved to: /mnt/data/health_project/metrics.json
+
+Model performance (dropout before treatment among diagnosed patients):
+- Logistic Regression AUC: 0.6494
+- Gradient Boosting AUC: 0.5763
+- Logistic Acc: 0.7098
+- Gradient Boosting Acc: 0.715
+
+Streamlit app saved to: /mnt/data/health_project/app.py

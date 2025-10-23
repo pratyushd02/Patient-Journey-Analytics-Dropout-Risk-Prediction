@@ -1,0 +1,9 @@
+{
+  "logistic_auc": 0.6494,
+  "gb_auc": 0.5763,
+  "logistic_acc": 0.7098,
+  "gb_acc": 0.715,
+  "train_size": 1156,
+  "test_size": 386,
+  "diagnosed_count": 1542
+}
