@@ -1,7 +1,4 @@
 # Patient-Journey-Analytics-Dropout-Risk-Prediction
-Absolutely ✅ — here’s a **clean, copy-paste-ready README** you can drop straight into your GitHub or portfolio.
-It’s concise (recruiter-friendly), polished, and still technical enough to impress healthcare/data employers.
-
 ---
 
 ```markdown
@@ -44,25 +41,6 @@ This project builds a **patient-journey analytics and dropout-risk prediction pl
 2. **Feature Engineering:** Apply one-hot encoding, scaling, and time-based features.  
 3. **Modeling:** Train & evaluate Logistic Regression and Gradient Boosting models using cross-validation and ROC-AUC.  
 4. **Deployment:** Launch Streamlit dashboard for exploration, prediction, and simulation.
-
----
-
-## 📂 Project Structure
-
-```
-
-project/
-├── app.py                     
-├── train_models.py           
-├── synthetic_patient_journeys.csv
-├── models/
-│   ├── logreg.pkl
-│   ├── gb.pkl
-│   └── scaler.pkl
-├── funnel_plot.png
-└── README.md
-
-````
 
 ---
 
