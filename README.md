@@ -1,0 +1,2 @@
+# Patient-Journey-Analytics-Dropout-Risk-Prediction
+• Utilized cohort dataset from 50k+ synthetic EHR/claims to map care stages and analyze pathway drop-offs. • Trained predictive models (Logistic Regression, Gradient Boosting) with cross-validation to forecast patient dropout risk. • Developed an interactive Streamlit dashboard with visualizations, outcome KPIs to support value-based care planning.
